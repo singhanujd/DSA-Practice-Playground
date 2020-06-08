@@ -1,9 +1,15 @@
 # dsa-practice-playground
 
 
-#TODO
-## https://leetcode.com/problems/partition-equal-subset-sum/
-## https://leetcode.com/problems/coin-change/
+# Dynamic Programming TODO
+  - [x] 0/1 knapsack
+  - [x] climbing a stair
+  - [x] cutting a rod
+  - [ ] Longest Increasing Subsequence (Recursive and Memoized left)
+  - [x] Longest Common Subsequence
+  - [x] Edit Distance
+  - [ ] partition equal subset sum
+  - [ ] coin change
 
 
 1. Dynamic Programming
@@ -26,6 +32,8 @@
    - Two Pointer Approach / Rotating Callipers Method
 9. Compiler Speed Optimization
    - FASTIO
+
+
 
 
 # Learn
